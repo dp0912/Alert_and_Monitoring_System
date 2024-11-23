@@ -37,5 +37,4 @@ This project is a multi-sensor data logging and alert system designed to monitor
 ### Arduino Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo-url.git
-   cd your-repo-url
+   git clone https://github.com/dp0912/Alert_and_Monitoring_System.git
